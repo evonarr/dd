@@ -1,0 +1,366 @@
+erience.Flags.GetFFlagCollectiblesCatalogFollowUpForSaleLocation 
+11:30:23 PM 🔒 Security Found: CoreGui.RobloxGui.Modules.AvatarExperience.Flags.GetFFlagEnableAvatarEditorServiceAPIErrorLogging 
+11:30:23 PM 🔒 Security Found: CoreGui.RobloxGui.Modules.AvatarExperience.Flags.GetFFlagEnableBankersRoundingOnResale 
+11:30:23 PM 🔒 Security Found: CoreGui.RobloxGui.Modules.AvatarExperience.Flags.GetFFlagEnableCatalogTileLoadingLatency 
+11:30:23 PM 🔒 Security Found: CoreGui.RobloxGui.Modules.AvatarExperience.Flags.GetFFlagEnableCategoryLogging 
+11:30:23 PM 🔒 Security Found: CoreGui.RobloxGui.Modules.AvatarExperience.Flags.GetFFlagEnableCollectiblesSaleLocationCheck 
+11:30:23 PM 🔒 Security Found: CoreGui.RobloxGui.Modules.AvatarExperience.Flags.GetFFlagLooksIXPLogging 
+11:30:23 PM 🔒 Security Found: CoreGui.RobloxGui.Modules.AvatarExperience.Flags.GetFIntMinSecsToRefreshRecommendedCatalogPage 
+11:30:23 PM 🔒 Security Found: CoreGui.RobloxGui.Modules.AvatarExperience.ProfilePictureEditor.Components.ProfilePictureEditorEmotesPage 
+11:30:23 PM 🔒 Security Found: CoreGui.RobloxGui.Modules.InGameMenu.Actions.CloseReportDialog 
+11:30:23 PM 🔒 Security Found: CoreGui.RobloxGui.Modules.InGameMenu.Actions.CloseReportSentDialog 
+11:30:23 PM 🔒 Security Found: CoreGui.RobloxGui.Modules.InGameMenu.Actions.OpenReportDialog 
+11:30:23 PM 🔒 Security Found: CoreGui.RobloxGui.Modules.InGameMenu.Actions.OpenReportSentDialog 
+11:30:23 PM 🔒 Security Found: CoreGui.RobloxGui.Modules.InGameMenu.Components.ConfirmationDialog 
+11:30:23 PM 🔒 Security Found: CoreGui.RobloxGui.Modules.InGameMenu.Components.EducationalPopupDialog 
+11:30:23 PM 🔒 Security Found: CoreGui.RobloxGui.Modules.InGameMenu.Components.InfoDialog 
+11:30:23 PM 🔒 Security Found: CoreGui.RobloxGui.Modules.InGameMenu.Components.InformationalDialog 
+11:30:23 PM 🔒 Security Found: CoreGui.RobloxGui.Modules.InGameMenu.Components.LeaveGameDialog 
+11:30:23 PM 🔒 Security Found: CoreGui.RobloxGui.Modules.InGameMenu.Components.Pages.Dialog 
+11:30:23 PM 🔒 Security Found: CoreGui.RobloxGui.Modules.InGameMenu.Components.ReportPage.ReportDialog 
+11:30:23 PM 🔒 Security Found: CoreGui.RobloxGui.Modules.InGameMenu.Components.ReportPage.ReportSentDialog 
+11:30:23 PM 🔒 Security Found: CoreGui.RobloxGui.Modules.InGameMenu.Components.RespawnDialog 
+11:30:23 PM 🔒 Security Found: CoreGui.RobloxGui.Modules.InGameMenu.Flags.FFlagFixExitDialogBlockVRView 
+11:30:23 PM 🔒 Security Found: CoreGui.RobloxGui.Modules.LuaApp.Actions.AccountSecurity 
+11:30:23 PM 🔒 Security Found: CoreGui.RobloxGui.Modules.LuaApp.Actions.Authentication.SetLoginResult 
+11:30:23 PM 🔒 Security Found: CoreGui.RobloxGui.Modules.LuaApp.Analytics.Events.accountSecurityPromptEvent 
+11:30:23 PM 🔒 Security Found: CoreGui.RobloxGui.Modules.LuaApp.Analytics.Events.AppLoginCounterNames 
+11:30:23 PM 🔒 Security Found: CoreGui.RobloxGui.Modules.LuaApp.Analytics.Events.AppSessionCheckCounterNames 
+11:30:23 PM 🔒 Security Found: CoreGui.RobloxGui.Modules.LuaApp.Analytics.Events.Auth.luaLogoutReasonNames 
+11:30:23 PM 🔒 Security Found: CoreGui.RobloxGui.Modules.LuaApp.Analytics.Events.catalogSearchEvent 
+11:30:23 PM 🔒 Security Found: CoreGui.RobloxGui.Modules.LuaApp.Analytics.RobloxTelemetryConfigs.LoginByUsernameSSOErrorsTelemetry 
+11:30:23 PM 🔒 Security Found: CoreGui.RobloxGui.Modules.LuaApp.Analytics.RobloxTelemetryConfigs.LuaLogoutReasons 
+11:30:23 PM 🔒 Security Found: CoreGui.RobloxGui.Modules.LuaApp.ArgCheck 
+11:30:23 PM 🔒 Security Found: CoreGui.RobloxGui.Modules.LuaApp.Components.AbuseReporting.CatalogReportContainer 
+11:30:23 PM 🔒 Security Found: CoreGui.RobloxGui.Modules.LuaApp.Components.AbuseReporting.ReportDialogBody 
+11:30:23 PM 🔒 Security Found: CoreGui.RobloxGui.Modules.LuaApp.Components.AbuseReporting.ReportDialogBodyLoading 
+11:30:23 PM 🔒 Security Found: CoreGui.RobloxGui.Modules.LuaApp.Components.AbuseReporting.ReportDialogController 
+11:30:23 PM 🔒 Security Found: CoreGui.RobloxGui.Modules.LuaApp.Components.AccountSecurity 
+11:30:23 PM 🔒 Security Found: CoreGui.RobloxGui.Modules.LuaApp.Components.AccountSecurity.PromptBannerV2 
+11:30:23 PM 🔒 Security Found: CoreGui.RobloxGui.Modules.LuaApp.Components.AntiAddictionPrompt 
+11:30:23 PM 🔒 Security Found: CoreGui.RobloxGui.Modules.LuaApp.Components.AppTopBannerContainer 
+11:30:23 PM 🔒 Security Found: CoreGui.RobloxGui.Modules.LuaApp.Components.Authentication.CredentialLoginContainer 
+11:30:23 PM 🔒 Security Found: CoreGui.RobloxGui.Modules.LuaApp.Components.Authentication.CredentialLoginForm 
+11:30:23 PM 🔒 Security Found: CoreGui.RobloxGui.Modules.LuaApp.Components.Authentication.CrossDeviceLogin 
+11:30:23 PM 🔒 Security Found: CoreGui.RobloxGui.Modules.LuaApp.Components.Authentication.CrossDeviceLogin.CrossDeviceConfirmLoginView 
+11:30:23 PM 🔒 Security Found: CoreGui.RobloxGui.Modules.LuaApp.Components.Authentication.CrossDeviceLogin.CrossDeviceLoginPage 
+11:30:23 PM 🔒 Security Found: CoreGui.RobloxGui.Modules.LuaApp.Components.Authentication.CrossDeviceLogin.LoginCodeComponent 
+11:30:23 PM 🔒 Security Found: CoreGui.RobloxGui.Modules.LuaApp.Components.Authentication.CrossDeviceLogin.LoginCodeOverlay 
+11:30:23 PM 🔒 Security Found: CoreGui.RobloxGui.Modules.LuaApp.Components.Authentication.CrossDeviceLogin.LoginCodePrompt 
+11:30:23 PM 🔒 Security Found: CoreGui.RobloxGui.Modules.LuaApp.Components.Authentication.CrossDeviceLogin.LoginCodeStatus 
+11:30:23 PM 🔒 Security Found: CoreGui.RobloxGui.Modules.LuaApp.Components.Authentication.CrossDeviceLogin.LoginConfirmationPrompt 
+11:30:23 PM 🔒 Security Found: CoreGui.RobloxGui.Modules.LuaApp.Components.Authentication.CrossDeviceLogin.ShortLinkLoginCodeComponent 
+11:30:23 PM 🔒 Security Found: CoreGui.RobloxGui.Modules.LuaApp.Components.Authentication.DualLoginWithContentsLayout 
+11:30:23 PM 🔒 Security Found: CoreGui.RobloxGui.Modules.LuaApp.Components.Authentication.Flags.FFlagSignupDisplayNameLogging 
+11:30:23 PM 🔒 Security Found: CoreGui.RobloxGui.Modules.LuaApp.Components.Authentication.Flags.FFlagSSOLoggingProtocolEnabled 
+11:30:23 PM 🔒 Security Found: CoreGui.RobloxGui.Modules.LuaApp.Components.Authentication.FloodcheckTextAndLink 
+11:30:23 PM 🔒 Security Found: CoreGui.RobloxGui.Modules.LuaApp.Components.Authentication.IssueTracker 
+11:30:23 PM 🔒 Security Found: CoreGui.RobloxGui.Modules.LuaApp.Components.Authentication.Logger 
+11:30:23 PM 🔒 Security Found: CoreGui.RobloxGui.Modules.LuaApp.Components.Authentication.LoginEmailVerificationPrompt 
+11:30:23 PM 🔒 Security Found: CoreGui.RobloxGui.Modules.LuaApp.Components.Authentication.LoginV2MonoWrapper 
+11:30:23 PM 🔒 Security Found: CoreGui.RobloxGui.Modules.LuaApp.Components.Authentication.LoginView 
+11:30:23 PM 🔒 Security Found: CoreGui.RobloxGui.Modules.LuaApp.Components.Authentication.LogoWithContentsLayout 
+11:30:23 PM 🔒 Security Found: CoreGui.RobloxGui.Modules.LuaApp.Components.Authentication.TenFootLogoWithContentsLayout 
+11:30:23 PM 🔒 Security Found: CoreGui.RobloxGui.Modules.LuaApp.Components.Authentication.VerifyPhoneNumber 
+11:30:23 PM 🔒 Security Found: CoreGui.RobloxGui.Modules.LuaApp.Components.Authentication.WeChatLoginWrapper 
+11:30:23 PM 🔒 Security Found: CoreGui.RobloxGui.Modules.LuaApp.Components.Banner 
+11:30:23 PM 🔒 Security Found: CoreGui.RobloxGui.Modules.LuaApp.Components.Banner.BannerContainer 
+11:30:23 PM 🔒 Security Found: CoreGui.RobloxGui.Modules.LuaApp.Components.Banner.useBannerContainer 
+11:30:23 PM 🔒 Security Found: CoreGui.RobloxGui.Modules.LuaApp.Components.Banner.useShowSecurityBanner 
+11:30:23 PM 🔒 Security Found: CoreGui.RobloxGui.Modules.LuaApp.Components.Banner.useShowSecurityBanner 
+11:30:23 PM 🔒 Security Found: CoreGui.RobloxGui.Modules.LuaApp.Components.Banner.useShowSiteMessageBanner 
+11:30:23 PM 🔒 Security Found: CoreGui.RobloxGui.Modules.LuaApp.Components.CheckBox 
+11:30:23 PM 🔒 Security Found: CoreGui.RobloxGui.Modules.LuaApp.Components.ExperienceDetails.ExperienceLogoTray 
+11:30:23 PM 🔒 Security Found: CoreGui.RobloxGui.Modules.LuaApp.Components.ExperienceDetails.LogoTray 
+11:30:23 PM 🔒 Security Found: CoreGui.RobloxGui.Modules.LuaApp.Components.Moderation.CheckForReminderOfNorms 
+11:30:23 PM 🔒 Security Found: CoreGui.RobloxGui.Modules.LuaApp.Components.Moderation.ModerationNotApprovedLoggingConstants 
+11:30:23 PM 🔒 Security Found: CoreGui.RobloxGui.Modules.LuaApp.Components.More.LogOutButton 
+11:30:23 PM 🔒 Security Found: CoreGui.RobloxGui.Modules.LuaApp.Components.More.MoreLogOut 
+11:30:23 PM 🔒 Security Found: CoreGui.RobloxGui.Modules.LuaApp.Components.More.ReportLogsOverlay 
+11:30:23 PM 🔒 Security Found: CoreGui.RobloxGui.Modules.LuaApp.Components.SiteMessageBanner 
+11:30:23 PM 🔒 Security Found: CoreGui.RobloxGui.Modules.LuaApp.Components.TopBar.Utils.selectTopBarHeightNoBanners 
+11:30:23 PM 🔒 Security Found: CoreGui.RobloxGui.Modules.LuaApp.DeepLinks.logGameDetailsDeepLinkEvent 
+11:30:23 PM 🔒 Security Found: CoreGui.RobloxGui.Modules.LuaApp.DesignTokenMappers.bannerTokenMapper 
+11:30:23 PM 🔒 Security Found: CoreGui.RobloxGui.Modules.LuaApp.DesignTokenMappers.crossDeviceLoginTokenMapper 
+11:30:23 PM 🔒 Security Found: CoreGui.RobloxGui.Modules.LuaApp.DesignTokenMappers.loginViewTokenMapper 
+11:30:23 PM 🔒 Security Found: CoreGui.RobloxGui.Modules.LuaApp.Enum.AccountSecurity 
+11:30:23 PM 🔒 Security Found: CoreGui.RobloxGui.Modules.LuaApp.Enum.CrossDeviceLoginView 
+11:30:23 PM 🔒 Security Found: CoreGui.RobloxGui.Modules.LuaApp.Enum.LoginErrorCodes 
+11:30:23 PM 🔒 Security Found: CoreGui.RobloxGui.Modules.LuaApp.Enum.LoginErrorCodeSSO 
+11:30:23 PM 🔒 Security Found: CoreGui.RobloxGui.Modules.LuaApp.Enum.LoginStatus 
+11:30:23 PM 🔒 Security Found: CoreGui.RobloxGui.Modules.LuaApp.Flags.FFlagAXEnableCatalogCreatorHttpLink 
+11:30:23 PM 🔒 Security Found: CoreGui.RobloxGui.Modules.LuaApp.Flags.FFlagDebugLuaAppValidateProps 
+11:30:23 PM 🔒 Security Found: CoreGui.RobloxGui.Modules.LuaApp.Flags.FFlagDebugShowSiteMessageBanner 
+11:30:23 PM 🔒 Security Found: CoreGui.RobloxGui.Modules.LuaApp.Flags.FFlagEnableCatalogEquipDeepLink 
+11:30:23 PM 🔒 Security Found: CoreGui.RobloxGui.Modules.LuaApp.Flags.FFlagEnableCatalogFilterDeepLink 
+11:30:23 PM 🔒 Security Found: CoreGui.RobloxGui.Modules.LuaApp.Flags.FFlagEnableCatalogSearchAndTopics 
+11:30:23 PM 🔒 Security Found: CoreGui.RobloxGui.Modules.LuaApp.Flags.FFlagEnableCatalogSearchDeepLinks 
+11:30:23 PM 🔒 Security Found: CoreGui.RobloxGui.Modules.LuaApp.Flags.FFlagEnableInvoluntaryLogoutEvent 
+11:30:23 PM 🔒 Security Found: CoreGui.RobloxGui.Modules.LuaApp.Flags.FFlagEnableIosKeychainLoginLua 
+11:30:23 PM 🔒 Security Found: CoreGui.RobloxGui.Modules.LuaApp.Flags.FFlagLuaSetNotificationDialogMode 
+11:30:23 PM 🔒 Security Found: CoreGui.RobloxGui.Modules.LuaApp.Flags.FFlagLuaSetPurchaseRobuxDialogMode 
+11:30:23 PM 🔒 Security Found: CoreGui.RobloxGui.Modules.LuaApp.Flags.FFlagShouldLinkBrowserTrackerToDevice 
+11:30:23 PM 🔒 Security Found: CoreGui.RobloxGui.Modules.LuaApp.Flags.FFlagUAppBlockPageDisableLogOutFromGUAC 
+11:30:23 PM 🔒 Security Found: CoreGui.RobloxGui.Modules.LuaApp.Flags.GetFFlagAuthIntentLoggingAtLandingEnabled 
+11:30:23 PM 🔒 Security Found: CoreGui.RobloxGui.Modules.LuaApp.Flags.GetFFlagAuthIntentLoggingAtLoginEnabled 
+11:30:23 PM 🔒 Security Found: CoreGui.RobloxGui.Modules.LuaApp.Flags.GetFFlagAuthIntentLoggingAtSignupButtonClickEnabled 
+11:30:23 PM 🔒 Security Found: CoreGui.RobloxGui.Modules.LuaApp.Flags.GetFFlagAuthIntentLoggingAtSignupEnabled 
+11:30:23 PM 🔒 Security Found: CoreGui.RobloxGui.Modules.LuaApp.Flags.GetFFlagAuthIntentLoggingForGameJoinEnabled 
+11:30:23 PM 🔒 Security Found: CoreGui.RobloxGui.Modules.LuaApp.Flags.GetFFlagAuthIntentLoggingForShareLinkMetadataAtSignupButtonClickEnabled 
+11:30:23 PM 🔒 Security Found: CoreGui.RobloxGui.Modules.LuaApp.Flags.GetFFlagDebugShowAccountSecurityPromptBanner 
+11:30:23 PM 🔒 Security Found: CoreGui.RobloxGui.Modules.LuaApp.Flags.GetFFlagDebugShowAccountSecurityPromptBanner 
+11:30:23 PM 🔒 Security Found: CoreGui.RobloxGui.Modules.LuaApp.Flags.GetFFlagEmailUpsellAtLogout 
+11:30:23 PM 🔒 Security Found: CoreGui.RobloxGui.Modules.LuaApp.Flags.GetFFlagEnableCorrectedLoginInstructions 
+11:30:23 PM 🔒 Security Found: CoreGui.RobloxGui.Modules.LuaApp.Flags.GetFFlagEnableCrossDeviceLoginUsingQRCodes 
+11:30:23 PM 🔒 Security Found: CoreGui.RobloxGui.Modules.LuaApp.Flags.GetFFlagEnableLoggingForGameDetailLinks 
+11:30:23 PM 🔒 Security Found: CoreGui.RobloxGui.Modules.LuaApp.Flags.GetFFlagEnableLoginAccountSelector 
+11:30:23 PM 🔒 Security Found: CoreGui.RobloxGui.Modules.LuaApp.Flags.GetFFlagEnableLoginWithExistingAccountVariant 
+11:30:23 PM 🔒 Security Found: CoreGui.RobloxGui.Modules.LuaApp.Flags.GetFFlagEnableOtpEmailLogin 
+11:30:23 PM 🔒 Security Found: CoreGui.RobloxGui.Modules.LuaApp.Flags.GetFFlagEnablePhoneLogoutUpsellExperiment 
+11:30:23 PM 🔒 Security Found: CoreGui.RobloxGui.Modules.LuaApp.Flags.GetFFlagEnablePhoneVerificationLogoutUpsell 
+11:30:23 PM 🔒 Security Found: CoreGui.RobloxGui.Modules.LuaApp.Flags.GetFFlagEnablePrivacyPolicyForLogoutUpsell 
+11:30:23 PM 🔒 Security Found: CoreGui.RobloxGui.Modules.LuaApp.Flags.GetFFlagForceEnableReportLogsButton 
+11:30:23 PM 🔒 Security Found: CoreGui.RobloxGui.Modules.LuaApp.Flags.GetFFlagIsAltAttemptLoggingAtSignup 
+11:30:23 PM 🔒 Security Found: CoreGui.RobloxGui.Modules.LuaApp.Flags.GetFFlagLuaAppAccountSecurityPromptEnabled 
+11:30:23 PM 🔒 Security Found: CoreGui.RobloxGui.Modules.LuaApp.Flags.GetFFlagLuaAppAccountSecurityPromptRollout 
+11:30:23 PM 🔒 Security Found: CoreGui.RobloxGui.Modules.LuaApp.Flags.GetFFlagLuaAppAutocompleteLatencyLogFix 
+11:30:23 PM 🔒 Security Found: CoreGui.RobloxGui.Modules.LuaApp.Flags.GetFFlagLuaAppLogoutTelemetry 
+11:30:23 PM 🔒 Security Found: CoreGui.RobloxGui.Modules.LuaApp.Flags.GetFFlagLuaAppPromotionalEmailsCheckboxEnabled 
+11:30:23 PM 🔒 Security Found: CoreGui.RobloxGui.Modules.LuaApp.Flags.GetFFlagLuaAppUseNewTwoStepFlowOnLogin 
+11:30:23 PM 🔒 Security Found: CoreGui.RobloxGui.Modules.LuaApp.Flags.GetFFlagLuaAppUsingSecurityQuestionsForLuaLogin 
+11:30:23 PM 🔒 Security Found: CoreGui.RobloxGui.Modules.LuaApp.Flags.GetFFlagLuaAppUsingSecurityQuestionsForLuaLogin 
+11:30:23 PM 🔒 Security Found: CoreGui.RobloxGui.Modules.LuaApp.Flags.GetFFlagPasskeySignupLogErrorBody 
+11:30:23 PM 🔒 Security Found: CoreGui.RobloxGui.Modules.LuaApp.Flags.GetFFlagReportCrossAppLoginAttempt 
+11:30:23 PM 🔒 Security Found: CoreGui.RobloxGui.Modules.LuaApp.Flags.GetFFlagShouldUsePeekViewForLoginDisambiguation 
+11:30:23 PM 🔒 Security Found: CoreGui.RobloxGui.Modules.LuaApp.Flags.GetFFlagVoiceUpsellConsentCheckbox 
+11:30:23 PM 🔒 Security Found: CoreGui.RobloxGui.Modules.LuaApp.Flags.GetFIntLoginViewBottomPaddingPx 
+11:30:23 PM 🔒 Security Found: CoreGui.RobloxGui.Modules.LuaApp.Flags.GetFIntLuaAppAccountSecurityPromptForcePopUpRenderAfterSeconds 
+11:30:23 PM 🔒 Security Found: CoreGui.RobloxGui.Modules.LuaApp.Flags.GetFIntLuaAppAccountSecurityPromptPollingIntervalSeconds 
+11:30:23 PM 🔒 Security Found: CoreGui.RobloxGui.Modules.LuaApp.Flags.GetFIntLuaAppAccountSecurityPromptPollingIntervalSecondsVisible 
+11:30:23 PM 🔒 Security Found: CoreGui.RobloxGui.Modules.LuaApp.Flags.GetFIntLuaAppAccountSecurityPromptPopUpSpawnDelay 
+11:30:23 PM 🔒 Security Found: CoreGui.RobloxGui.Modules.LuaApp.Flags.GetFIntLuaLoginGenderSelector 
+11:30:23 PM 🔒 Security Found: CoreGui.RobloxGui.Modules.LuaApp.Http.Requests.AccountSwitcher.GetLoggedInUsersMetadata 
+11:30:23 PM 🔒 Security Found: CoreGui.RobloxGui.Modules.LuaApp.Http.Requests.AccountSwitcher.LogoutAllLoggedInUsersRequest 
+11:30:23 PM 🔒 Security Found: CoreGui.RobloxGui.Modules.LuaApp.Http.Requests.AuthCanVerifyCredentials 
+11:30:23 PM 🔒 Security Found: CoreGui.RobloxGui.Modules.LuaApp.Http.Requests.AuthVerifyCredentials 
+11:30:23 PM 🔒 Security Found: CoreGui.RobloxGui.Modules.LuaApp.Http.Requests.LoginRequests 
+11:30:23 PM 🔒 Security Found: CoreGui.RobloxGui.Modules.LuaApp.Http.Requests.Logout 
+11:30:23 PM 🔒 Security Found: CoreGui.RobloxGui.Modules.LuaApp.Http.Requests.PaymentsGatewayApi.CheckUserPurchaseSettings 
+11:30:23 PM 🔒 Security Found: CoreGui.RobloxGui.Modules.LuaApp.Http.Requests.PostAgeVerificationOptOutCheckbox 
+11:30:23 PM 🔒 Security Found: CoreGui.RobloxGui.Modules.LuaApp.Http.Requests.PostAssociateBrowserTrackerToDevice 
+11:30:23 PM 🔒 Security Found: CoreGui.RobloxGui.Modules.LuaApp.Http.Requests.PostVerifyPhoneNumber 
+11:30:23 PM 🔒 Security Found: CoreGui.RobloxGui.Modules.LuaApp.Http.Requests.SendUserVerifyEmail 
+11:30:23 PM 🔒 Security Found: CoreGui.RobloxGui.Modules.LuaApp.Http.Requests.ValidateVngVerificationFormStatus 
+11:30:23 PM 🔒 Security Found: CoreGui.RobloxGui.Modules.LuaApp.LuaAppBacktraceLogger 
+11:30:23 PM 🔒 Security Found: CoreGui.RobloxGui.Modules.LuaApp.Models.Authentication.LoginResult 
+11:30:23 PM 🔒 Security Found: CoreGui.RobloxGui.Modules.LuaApp.Reducers.AccountSecurity 
+11:30:23 PM 🔒 Security Found: CoreGui.RobloxGui.Modules.LuaApp.Reducers.Authentication.LoginResult 
+11:30:23 PM 🔒 Security Found: CoreGui.RobloxGui.Modules.LuaApp.Reducers.CatalogAssets 
+11:30:23 PM 🔒 Security Found: CoreGui.RobloxGui.Modules.LuaApp.Reducers.CatalogBundles 
+11:30:23 PM 🔒 Security Found: CoreGui.RobloxGui.Modules.LuaApp.Thunks.AccountSecurity 
+11:30:23 PM 🔒 Security Found: CoreGui.RobloxGui.Modules.LuaApp.Thunks.AccountSecurity.CheckChallengeHeaders 
+11:30:23 PM 🔒 Security Found: CoreGui.RobloxGui.Modules.LuaApp.Thunks.ApiPostCheckUserPurchaseSettings 
+11:30:23 PM 🔒 Security Found: CoreGui.RobloxGui.Modules.LuaApp.Thunks.Authentication.AccountSwitcher.LogoutAllLoggedInUsers 
+11:30:23 PM 🔒 Security Found: CoreGui.RobloxGui.Modules.LuaApp.Thunks.Authentication.AttemptLoginWithIosKeychainCredentials 
+11:30:23 PM 🔒 Security Found: CoreGui.RobloxGui.Modules.LuaApp.Thunks.Authentication.CrossDeviceLogin 
+11:30:23 PM 🔒 Security Found: CoreGui.RobloxGui.Modules.LuaApp.Thunks.Authentication.EmailVerification.CheckEmailVerification 
+11:30:23 PM 🔒 Security Found: CoreGui.RobloxGui.Modules.LuaApp.Thunks.Authentication.EmailVerification.CheckEmailVerificationBeforeLogout 
+11:30:23 PM 🔒 Security Found: CoreGui.RobloxGui.Modules.LuaApp.Thunks.Authentication.EmailVerification.CheckEmailVerificationBeforeLogout 
+11:30:23 PM 🔒 Security Found: CoreGui.RobloxGui.Modules.LuaApp.Thunks.Authentication.GetLocaleAndGotoLoginPage 
+11:30:23 PM 🔒 Security Found: CoreGui.RobloxGui.Modules.LuaApp.Thunks.Authentication.Login 
+11:30:23 PM 🔒 Security Found: CoreGui.RobloxGui.Modules.LuaApp.Thunks.Authentication.LoginByCode 
+11:30:23 PM 🔒 Security Found: CoreGui.RobloxGui.Modules.LuaApp.Thunks.Authentication.LoginByEmail 
+11:30:23 PM 🔒 Security Found: CoreGui.RobloxGui.Modules.LuaApp.Thunks.Authentication.LoginByOtp 
+11:30:23 PM 🔒 Security Found: CoreGui.RobloxGui.Modules.LuaApp.Thunks.Authentication.LoginByPasskey 
+11:30:23 PM 🔒 Security Found: CoreGui.RobloxGui.Modules.LuaApp.Thunks.Authentication.LoginByPhone 
+11:30:23 PM 🔒 Security Found: CoreGui.RobloxGui.Modules.LuaApp.Thunks.Authentication.LoginByUsername 
+11:30:23 PM 🔒 Security Found: CoreGui.RobloxGui.Modules.LuaApp.Thunks.Authentication.LoginSingleSignOn 
+11:30:23 PM 🔒 Security Found: CoreGui.RobloxGui.Modules.LuaApp.Thunks.Authentication.Logout 
+11:30:23 PM 🔒 Security Found: CoreGui.RobloxGui.Modules.LuaApp.Thunks.Authentication.PhoneVerification.CheckPhoneVerification 
+11:30:23 PM 🔒 Security Found: CoreGui.RobloxGui.Modules.LuaApp.Thunks.Authentication.Util.GetLoginByUsernameErrorMessage 
+11:30:23 PM 🔒 Security Found: CoreGui.RobloxGui.Modules.LuaApp.Thunks.Authentication.VerifyCredentials 
+11:30:23 PM 🔒 Security Found: CoreGui.RobloxGui.Modules.LuaApp.Thunks.Authentication.VerifyPhoneNumberCode 
+11:30:23 PM 🔒 Security Found: CoreGui.RobloxGui.Modules.LuaApp.Thunks.Authentication.VerifyTwoStep 
+11:30:23 PM 🔒 Security Found: CoreGui.RobloxGui.Modules.LuaApp.Thunks.Authentication.WebLogin 
+11:30:23 PM 🔒 Security Found: CoreGui.RobloxGui.Modules.LuaApp.Thunks.CheckHttpErrorStatus 
+11:30:23 PM 🔒 Security Found: CoreGui.RobloxGui.Modules.LuaApp.Thunks.CheckUserUnauthorized 
+11:30:23 PM 🔒 Security Found: CoreGui.RobloxGui.Modules.LuaApp.Thunks.LogoutUserOnUnauthorized 
+11:30:23 PM 🔒 Security Found: CoreGui.RobloxGui.Modules.LuaApp.Thunks.Moderation.DetectModeratedUser 
+11:30:23 PM 🔒 Security Found: CoreGui.RobloxGui.Modules.LuaApp.Thunks.Moderation.UserModerationCheck 
+11:30:23 PM 🔒 Security Found: CoreGui.RobloxGui.Modules.LuaApp.Thunks.NavigateDownToSecuritySettings 
+11:30:23 PM 🔒 Security Found: CoreGui.RobloxGui.Modules.LuaApp.Thunks.OpenCentralOverlayForLoginPasswordResetPrompt 
+11:30:23 PM 🔒 Security Found: CoreGui.RobloxGui.Modules.LuaApp.Thunks.OpenCentralOverlayForReportLogs 
+11:30:23 PM 🔒 Security Found: CoreGui.RobloxGui.Modules.LuaApp.Thunks.OpenReportDialog 
+11:30:23 PM 🔒 Security Found: CoreGui.RobloxGui.Modules.Chrome.ChromeShared.Analytics.Tracker 
+11:30:23 PM 🔒 Security Found: CoreGui.RobloxGui.Modules.Chrome.Flags.GetFFlagChromeTrackWindowPosition 
+11:30:23 PM 🔒 Security Found: CoreGui.RobloxGui.Modules.Chrome.Flags.GetFFlagChromeTrackWindowStatus 
+11:30:23 PM 🔒 Security Found: CoreGui.RobloxGui.Modules.Chrome.Integrations.MusicUtility.PeekTrackDetails 
+11:30:23 PM 🔒 Security Found: CoreGui.RobloxGui.Modules.Common.Flags.FFlagWhisperEmoteOnAvatarContextMenuWithExpChat 
+11:30:23 PM 🔒 Security Found: CoreGui.RobloxGui.Modules.Common.Flags.GetFFlagEnableInGameMenuDurationLogger 
+11:30:23 PM 🔒 Security Found: CoreGui.RobloxGui.Modules.Common.Flags.GetFFlagPlayerViewRemoteEnabled 
+11:30:23 PM 🔒 Security Found: CoreGui.RobloxGui.Modules.Common.Flags.GetFFlagPlayerViewValidateRequesteeEnabled 
+11:30:23 PM 🔒 Security Found: CoreGui.RobloxGui.Modules.Common.ReactPerfTracker 
+11:30:23 PM 🔒 Security Found: CoreGui.RobloxGui.Modules.ContactList.Actions.CloseDialog 
+11:30:23 PM 🔒 Security Found: CoreGui.RobloxGui.Modules.ContactList.Actions.OpenOrUpdateDialog 
+11:30:23 PM 🔒 Security Found: CoreGui.RobloxGui.Modules.ContactList.Components.CallDialogContainer 
+11:30:23 PM 🔒 Security Found: CoreGui.RobloxGui.Modules.ContactList.Reducer.Dialog 
+11:30:23 PM 🔒 Security Found: CoreGui.RobloxGui.Modules.EmotesMenu.Actions.NumberEmotesLoadedChanged 
+11:30:23 PM 🔒 Security Found: CoreGui.RobloxGui.Modules.Feedback.Components.FeedbackReportDialog 
+11:30:23 PM 🔒 Security Found: CoreGui.RobloxGui.Modules.Feedback.Components.ModalDialog 
+11:30:23 PM 🔒 Security Found: CoreGui.RobloxGui.Modules.Flags.FFlagEnableBundlePurchaseChecks 
+11:30:23 PM 🔒 Security Found: CoreGui.RobloxGui.Modules.Flags.FFlagEnableCollectibleCheckToPurchaseItem 
+11:30:23 PM 🔒 Security Found: CoreGui.RobloxGui.Modules.Flags.FFlagEnableExperienceMenuSessionTracking 
+11:30:23 PM 🔒 Security Found: CoreGui.RobloxGui.Modules.Flags.FFlagRemoveKickWhitespaceSub 
+11:30:23 PM 🔒 Security Found: CoreGui.RobloxGui.Modules.Flags.GetFFlagEnableFeedbackReportDialogAdjustments 
+11:30:23 PM 🔒 Security Found: CoreGui.RobloxGui.Modules.Flags.GetFFlagGetClientReplicatorCheck 
+11:30:23 PM 🔒 Security Found: CoreGui.RobloxGui.Modules.Flags.getFFlagMicrophoneDevicePermissionsPromptLogging 
+11:30:23 PM 🔒 Security Found: CoreGui.RobloxGui.Modules.Flags.GetFFlagPlayerViewRemoteEventTimeoutEnabled 
+11:30:23 PM 🔒 Security Found: CoreGui.RobloxGui.Modules.Flags.GetFFlagUpdateNudgeV3VoiceBanUI 
+11:30:23 PM 🔒 Security Found: CoreGui.RobloxGui.Modules.Flags.GetFFlagUpdateSelfieViewOnBan 
+11:30:23 PM 🔒 Security Found: CoreGui.RobloxGui.Modules.Flags.GetFFlagVoiceBanShowToastOnSubsequentJoins 
+11:30:23 PM 🔒 Security Found: CoreGui.RobloxGui.Modules.Flags.GetFFlagVoiceChatUILogging 
+11:30:23 PM 🔒 Security Found: CoreGui.RobloxGui.Modules.Flags.GetFIntPlayerViewRemoteEventTimeout 
+11:30:23 PM 🔒 Security Found: CoreGui.RobloxGui.Modules.PublishAssetPrompt.GetFFlagValidateDescription 
+11:30:23 PM 🔒 Security Found: CoreGui.RobloxGui.Modules.InGameChat.BubbleChat.Helpers.validateMessage 
+11:30:23 PM 🔒 Security Found: CoreGui.RobloxGui.Modules.InGameChat.BubbleChat.Logger 
+11:30:23 PM 🔒 Security Found: CoreGui.RobloxGui.Modules.Luobu.Actions.SetMSDKLoginErrMessageKey 
+11:30:23 PM 🔒 Security Found: CoreGui.RobloxGui.Modules.Luobu.Actions.SetMSDKLoginInProgress 
+11:30:23 PM 🔒 Security Found: CoreGui.RobloxGui.Modules.Luobu.Actions.SetMSDKLoginOpenId 
+11:30:23 PM 🔒 Security Found: CoreGui.RobloxGui.Modules.Luobu.Analytics.Events.AppSessionCheckCounterNames 
+11:30:23 PM 🔒 Security Found: CoreGui.RobloxGui.Modules.Luobu.Thunks.RequestMSDKLogin 
+11:30:23 PM 🔒 Security Found: CoreGui.RobloxGui.Modules.PurchasePrompt.Flags.GetFFlagUseCatalogItemDetailsToResolveBundlePurchase 
+11:30:23 PM 🔒 Security Found: CoreGui.RobloxGui.Modules.PurchasePrompt.Network.checkUserPurchaseSettings 
+11:30:23 PM 🔒 Security Found: CoreGui.RobloxGui.Modules.PurchasePrompt.Network.getCatalogItemDetails 
+11:30:23 PM 🔒 Security Found: CoreGui.RobloxGui.Modules.PurchasePrompt.Network.getPremiumUpsellPrecheck 
+11:30:23 PM 🔒 Security Found: CoreGui.RobloxGui.Modules.PurchasePrompt.Thunks.initiatePremiumPrecheck 
+11:30:23 PM 🔒 Security Found: CoreGui.RobloxGui.Modules.PurchasePrompt.Thunks.initiatePurchasePrecheck 
+11:30:23 PM 🔒 Security Found: CoreGui.RobloxGui.Modules.PurchasePrompt.Thunks.initiateUserPurchaseSettingsPrecheck 
+11:30:23 PM 🔒 Security Found: CoreGui.RobloxGui.Modules.PurchasePrompt.Thunks.openSecuritySettings 
+11:30:23 PM 🔒 Security Found: CoreGui.RobloxGui.Modules.PurchasePrompt.Thunks.resolvePurchasePrecheck 
+11:30:23 PM 🔒 Security Found: CoreGui.RobloxGui.Modules.PurchasePrompt.Utils.ClickScamDetector 
+11:30:23 PM 🔒 Security Found: CoreGui.RobloxGui.Modules.PurchasePrompt.Utils.debugLog 
+11:30:23 PM 🔒 Security Found: CoreGui.RobloxGui.Modules.SelfieView.Hooks.useTrackerMessage 
+11:30:23 PM 🔒 Security Found: CoreGui.RobloxGui.Modules.SelfieView.Hooks.useTrackerMode 
+11:30:23 PM 🔒 Security Found: CoreGui.RobloxGui.Modules.Settings.Components.ReportConfirmation.CheckboxRow 
+11:30:23 PM 🔒 Security Found: CoreGui.RobloxGui.Modules.Settings.Flags.GetFFlagDisableMuteAllCheckForIsMuted 
+11:30:23 PM 🔒 Security Found: CoreGui.RobloxGui.Modules.Settings.Resources.MicrophoneDevicePermissionsLogging 
+11:30:23 PM 🔒 Security Found: CoreGui.RobloxGui.Modules.ShareTargetGame.Components.GameBanner 
+11:30:23 PM 🔒 Security Found: CoreGui.RobloxGui.Modules.Shell.Flags.GetFFlagRemoveUtilDebugLog 
+11:30:23 PM 🔒 Security Found: CoreGui.RobloxGui.Modules.Shell.Flags.GetFIntXboxPrimaryNavABLogging 
+11:30:23 PM 🔒 Security Found: CoreGui.RobloxGui.Modules.TopBar.Actions.SetGamepadNavigationDialogOpen 
+11:30:23 PM 🔒 Security Found: CoreGui.RobloxGui.Modules.TopBar.Components.Presentation.GamepadMenu.MenuNavigationToggleDialog 
+11:30:23 PM 🔒 Security Found: CoreGui.RobloxGui.Modules.TopBar.Components.Presentation.GamepadNavigationDialog 
+11:30:23 PM 🔒 Security Found: CoreGui.RobloxGui.Modules.TopBar.Components.Presentation.GamepadNavigationDialog.GamepadNavigationDialog 
+11:30:23 PM 🔒 Security Found: CoreGui.RobloxGui.Modules.TopBar.Components.Presentation.GamepadNavigationDialog.GamepadNavigationDialogShowCounter 
+11:30:23 PM 🔒 Security Found: CoreGui.RobloxGui.Modules.TopBar.Components.Presentation.HeadsetMenu.DisconnectedDialog 
+11:30:23 PM 🔒 Security Found: CoreGui.RobloxGui.Modules.TopBar.Flags.FFlagAlwaysSelectButtonDismissesGamepadNavigationDialog 
+11:30:23 PM 🔒 Security Found: CoreGui.RobloxGui.Modules.TopBar.Flags.FFlagAlwaysShowGamepadNavigationDialog 
+11:30:23 PM 🔒 Security Found: CoreGui.RobloxGui.Modules.TopBar.Flags.FFlagGamepadNavigationDialogABTest 
+11:30:23 PM 🔒 Security Found: CoreGui.RobloxGui.Modules.TopBar.Flags.FFlagLocalizeMenuNavigationToggleDialog 
+11:30:23 PM 🔒 Security Found: CoreGui.RobloxGui.Modules.TopBar.Flags.GetFIntGamepadNavigationDialogShowCount 
+11:30:23 PM 🔒 Security Found: CoreGui.RobloxGui.Modules.TopBar.Flags.GetFStringGamepadNavigationDialogABTestLayerName 
+11:30:23 PM 🔒 Security Found: CoreGui.RobloxGui.Modules.Tracker 
+11:30:23 PM 🔒 Security Found: CoreGui.RobloxGui.Modules.Tracker.TrackerMenu 
+11:30:23 PM 🔒 Security Found: CoreGui.RobloxGui.Modules.Tracker.TrackerPrompt 
+11:30:23 PM 🔒 Security Found: CoreGui.RobloxGui.Modules.Tracker.TrackerPromptType 
+11:30:23 PM 🔒 Security Found: CoreGui.RobloxGui.Modules.TrustAndSafety.Actions.CloseBlockPlayerDialog 
+11:30:23 PM 🔒 Security Found: CoreGui.RobloxGui.Modules.TrustAndSafety.Actions.CloseReportDialog 
+11:30:23 PM 🔒 Security Found: CoreGui.RobloxGui.Modules.TrustAndSafety.Actions.CloseReportSentDialog 
+11:30:23 PM 🔒 Security Found: CoreGui.RobloxGui.Modules.TrustAndSafety.Actions.OpenBlockPlayerDialog 
+11:30:23 PM 🔒 Security Found: CoreGui.RobloxGui.Modules.TrustAndSafety.Actions.OpenReportDialog 
+11:30:23 PM 🔒 Security Found: CoreGui.RobloxGui.Modules.TrustAndSafety.Actions.OpenReportSentDialog 
+11:30:23 PM 🔒 Security Found: CoreGui.RobloxGui.Modules.TrustAndSafety.Components.ModalDialog 
+11:30:23 PM 🔒 Security Found: CoreGui.RobloxGui.Modules.TrustAndSafety.Components.ReportAnything.RestartScreenshotDialog 
+11:30:23 PM 🔒 Security Found: CoreGui.RobloxGui.Modules.TrustAndSafety.Components.ReportAnything.ScreenshotDialog 
+11:30:23 PM 🔒 Security Found: CoreGui.RobloxGui.Modules.TrustAndSafety.Components.ReportAnything.ScreenshotDialogLandscapeModeHeader 
+11:30:23 PM 🔒 Security Found: CoreGui.RobloxGui.Modules.TrustAndSafety.Components.ReportAnything.ScreenshotDialogPortraitModeHeader 
+11:30:23 PM 🔒 Security Found: CoreGui.RobloxGui.Modules.TrustAndSafety.Components.ReportAnything.ScreenshotLoadingDialog 
+11:30:23 PM 🔒 Security Found: CoreGui.RobloxGui.Modules.TrustAndSafety.Components.ReportAnything.ScreenshotReviewDialog 
+11:30:23 PM 🔒 Security Found: CoreGui.RobloxGui.Modules.TrustAndSafety.Components.ReportCategoryDialog 
+11:30:23 PM 🔒 Security Found: CoreGui.RobloxGui.Modules.TrustAndSafety.Components.ReportDialog 
+11:30:23 PM 🔒 Security Found: CoreGui.RobloxGui.Modules.TrustAndSafety.Components.ReportSentDialog 
+11:30:23 PM 🔒 Security Found: CoreGui.RobloxGui.Modules.VoiceChat.Logger 
+11:30:23 PM 🔒 Security Found: CoreGui.RobloxGui.Modules.VoiceChat.ReportAbuseLogic 
+11:30:23 PM 🔒 Security Found: CoreGui.RobloxGui.Modules.VR.Dialog 
+11:30:23 PM 🚀 Advanced Analysis System Active! 
+11:30:25 PM ⚡ New Remote: {"path":"StarterGui.F.gunevent","name":"gunevent","args":[],"parent":"StarterGui.F","timestamp":1739421025,"callstack":":23 function analyzeRemote\n:111\n","properties":{"Parent":null,"Name":"gunevent","ClassName":"RemoteEvent"}} 
+11:30:25 PM ⚡ New Remote: {"path":"StarterGui.F.serverevent","name":"serverevent","args":[],"parent":"StarterGui.F","timestamp":1739421025,"callstack":":23 function analyzeRemote\n:111\n","properties":{"Parent":null,"Name":"serverevent","ClassName":"RemoteEvent"}} 
+11:30:25 PM ⚡ New Remote: {"path":"ReplicatedStorage.MAINEVENT","name":"MAINEVENT","args":[],"parent":"ReplicatedStorage","timestamp":1739421025,"callstack":":23 function analyzeRemote\n:111\n","properties":{"Parent":null,"Name":"MAINEVENT","ClassName":"RemoteEvent"}} 
+11:30:25 PM ⚡ New Remote: {"path":"ReplicatedStorage.STOMPEFFECTEVENT","name":"STOMPEFFECTEVENT","args":[],"parent":"ReplicatedStorage","timestamp":1739421025,"callstack":":23 function analyzeRemote\n:111\n","properties":{"Parent":null,"Name":"STOMPEFFECTEVENT","ClassName":"RemoteEvent"}} 
+11:30:25 PM ⚡ New Remote: {"path":"ReplicatedStorage.Assets.Invoke","name":"Invoke","args":[],"parent":"ReplicatedStorage.Assets","timestamp":1739421025,"callstack":":23 function analyzeRemote\n:111\n","properties":{"Parent":null,"Name":"Invoke","ClassName":"RemoteFunction"}} 
+11:30:25 PM ⚡ New Remote: {"path":"ReplicatedStorage.Tools.Boombox.BBGui.Frame.Event","name":"Event","args":[],"parent":"ReplicatedStorage.Tools.Boombox.BBGui.Frame","timestamp":1739421025,"callstack":":23 function analyzeRemote\n:111\n","properties":{"Parent":null,"Name":"Event","ClassName":"RemoteEvent"}} 
+11:30:25 PM ⚡ New Remote: {"path":"ReplicatedStorage.guns.usp.rl","name":"rl","args":[],"parent":"ReplicatedStorage.guns.usp","timestamp":1739421025,"callstack":":23 function analyzeRemote\n:111\n","properties":{"Parent":null,"Name":"rl","ClassName":"RemoteEvent"}} 
+11:30:25 PM ⚡ New Remote: {"path":"ReplicatedStorage.guns.type 17.rl","name":"rl","args":[],"parent":"ReplicatedStorage.guns.type 17","timestamp":1739421025,"callstack":":23 function analyzeRemote\n:111\n","properties":{"Parent":null,"Name":"rl","ClassName":"RemoteEvent"}} 
+11:30:25 PM ⚡ New Remote: {"path":"ReplicatedStorage.guns.tactical sg.rl","name":"rl","args":[],"parent":"ReplicatedStorage.guns.tactical sg","timestamp":1739421025,"callstack":":23 function analyzeRemote\n:111\n","properties":{"Parent":null,"Name":"rl","ClassName":"RemoteEvent"}} 
+11:30:25 PM ⚡ New Remote: {"path":"ReplicatedStorage.guns.rev.rl","name":"rl","args":[],"parent":"ReplicatedStorage.guns.rev","timestamp":1739421025,"callstack":":23 function analyzeRemote\n:111\n","properties":{"Parent":null,"Name":"rl","ClassName":"RemoteEvent"}} 
+11:30:25 PM ⚡ New Remote: {"path":"ReplicatedStorage.guns.db.rl","name":"rl","args":[],"parent":"ReplicatedStorage.guns.db","timestamp":1739421025,"callstack":":23 function analyzeRemote\n:111\n","properties":{"Parent":null,"Name":"rl","ClassName":"RemoteEvent"}} 
+11:30:25 PM ⚡ New Remote: {"path":"ReplicatedStorage.guns.silencer.rl","name":"rl","args":[],"parent":"ReplicatedStorage.guns.silencer","timestamp":1739421025,"callstack":":23 function analyzeRemote\n:111\n","properties":{"Parent":null,"Name":"rl","ClassName":"RemoteEvent"}} 
+11:30:25 PM ⚡ New Remote: {"path":"ReplicatedStorage.guns.aimlock db.rl","name":"rl","args":[],"parent":"ReplicatedStorage.guns.aimlock db","timestamp":1739421025,"callstack":":23 function analyzeRemote\n:111\n","properties":{"Parent":null,"Name":"rl","ClassName":"RemoteEvent"}} 
+11:30:25 PM ⚡ New Remote: {"path":"ReplicatedStorage.guns.aimlock rev.rl","name":"rl","args":[],"parent":"ReplicatedStorage.guns.aimlock rev","timestamp":1739421025,"callstack":":23 function analyzeRemote\n:111\n","properties":{"Parent":null,"Name":"rl","ClassName":"RemoteEvent"}} 
+11:30:25 PM ⚡ New Remote: {"path":"ReplicatedStorage.guns.sawed off.rl","name":"rl","args":[],"parent":"ReplicatedStorage.guns.sawed off","timestamp":1739421025,"callstack":":23 function analyzeRemote\n:111\n","properties":{"Parent":null,"Name":"rl","ClassName":"RemoteEvent"}} 
+11:30:25 PM ⚡ New Remote: {"path":"ReplicatedStorage.guns.sglock.rl","name":"rl","args":[],"parent":"ReplicatedStorage.guns.sglock","timestamp":1739421025,"callstack":":23 function analyzeRemote\n:111\n","properties":{"Parent":null,"Name":"rl","ClassName":"RemoteEvent"}} 
+11:30:25 PM ⚡ New Remote: {"path":"ReplicatedStorage.guns.sg.rl","name":"rl","args":[],"parent":"ReplicatedStorage.guns.sg","timestamp":1739421025,"callstack":":23 function analyzeRemote\n:111\n","properties":{"Parent":null,"Name":"rl","ClassName":"RemoteEvent"}} 
+11:30:25 PM ⚡ New Remote: {"path":"ReplicatedStorage.guns.awp.rl","name":"rl","args":[],"parent":"ReplicatedStorage.guns.awp","timestamp":1739421025,"callstack":":23 function analyzeRemote\n:111\n","properties":{"Parent":null,"Name":"rl","ClassName":"RemoteEvent"}} 
+11:30:25 PM ⚡ New Remote: {"path":"ReplicatedStorage.RemoteEvent","name":"RemoteEvent","args":[],"parent":"ReplicatedStorage","timestamp":1739421025,"callstack":":23 function analyzeRemote\n:111\n","properties":{"Parent":null,"Name":"RemoteEvent","ClassName":"RemoteEvent"}} 
+11:30:25 PM ⚡ New Remote: {"path":"RobloxReplicatedStorage.VoiceChatTokenRequest","name":"VoiceChatTokenRequest","args":[],"parent":"RobloxReplicatedStorage","timestamp":1739421025,"callstack":":23 function analyzeRemote\n:111\n","properties":{"Parent":null,"Name":"VoiceChatTokenRequest","ClassName":"RemoteEvent"}} 
+11:30:25 PM ⚡ New Remote: {"path":"ReplicatedStorage.b\u0007\n\u0007\n\u0007","name":"b\u0007\n\u0007\n\u0007","args":[],"parent":"ReplicatedStorage","timestamp":1739421025,"callstack":":23 function analyzeRemote\n:111\n","properties":{"Parent":null,"Name":"b\u0007\n\u0007\n\u0007","ClassName":"RemoteEvent"}} 
+11:30:25 PM ⚡ New Remote: {"path":"RobloxReplicatedStorage.GetServerType","name":"GetServerType","args":[],"parent":"RobloxReplicatedStorage","timestamp":1739421025,"callstack":":23 function analyzeRemote\n:111\n","properties":{"Parent":null,"Name":"GetServerType","ClassName":"RemoteFunction"}} 
+11:30:25 PM ⚡ New Remote: {"path":"RobloxReplicatedStorage.CanChatWith","name":"CanChatWith","args":[],"parent":"RobloxReplicatedStorage","timestamp":1739421025,"callstack":":23 function analyzeRemote\n:111\n","properties":{"Parent":null,"Name":"CanChatWith","ClassName":"RemoteEvent"}} 
+11:30:25 PM ⚡ New Remote: {"path":"RobloxReplicatedStorage.SetPlayerBlockList","name":"SetPlayerBlockList","args":[],"parent":"RobloxReplicatedStorage","timestamp":1739421025,"callstack":":23 function analyzeRemote\n:111\n","properties":{"Parent":null,"Name":"SetPlayerBlockList","ClassName":"RemoteEvent"}} 
+11:30:25 PM ⚡ New Remote: {"path":"RobloxReplicatedStorage.UpdatePlayerBlockList","name":"UpdatePlayerBlockList","args":[],"parent":"RobloxReplicatedStorage","timestamp":1739421025,"callstack":":23 function analyzeRemote\n:111\n","properties":{"Parent":null,"Name":"UpdatePlayerBlockList","ClassName":"RemoteEvent"}} 
+11:30:25 PM ⚡ New Remote: {"path":"RobloxReplicatedStorage.NewPlayerGroupDetails","name":"NewPlayerGroupDetails","args":[],"parent":"RobloxReplicatedStorage","timestamp":1739421025,"callstack":":23 function analyzeRemote\n:111\n","properties":{"Parent":null,"Name":"NewPlayerGroupDetails","ClassName":"RemoteEvent"}} 
+11:30:25 PM ⚡ New Remote: {"path":"RobloxReplicatedStorage.NewPlayerCanManageDetails","name":"NewPlayerCanManageDetails","args":[],"parent":"RobloxReplicatedStorage","timestamp":1739421025,"callstack":":23 function analyzeRemote\n:111\n","properties":{"Parent":null,"Name":"NewPlayerCanManageDetails","ClassName":"RemoteEvent"}} 
+11:30:25 PM ⚡ New Remote: {"path":"RobloxReplicatedStorage.SendPlayerBlockList","name":"SendPlayerBlockList","args":[],"parent":"RobloxReplicatedStorage","timestamp":1739421025,"callstack":":23 function analyzeRemote\n:111\n","properties":{"Parent":null,"Name":"SendPlayerBlockList","ClassName":"RemoteEvent"}} 
+11:30:25 PM ⚡ New Remote: {"path":"RobloxReplicatedStorage.UpdateLocalPlayerBlockList","name":"UpdateLocalPlayerBlockList","args":[],"parent":"RobloxReplicatedStorage","timestamp":1739421025,"callstack":":23 function analyzeRemote\n:111\n","properties":{"Parent":null,"Name":"UpdateLocalPlayerBlockList","ClassName":"RemoteEvent"}} 
+11:30:25 PM ⚡ New Remote: {"path":"RobloxReplicatedStorage.SendPlayerProfileSettings","name":"SendPlayerProfileSettings","args":[],"parent":"RobloxReplicatedStorage","timestamp":1739421025,"callstack":":23 function analyzeRemote\n:111\n","properties":{"Parent":null,"Name":"SendPlayerProfileSettings","ClassName":"RemoteEvent"}} 
+11:30:25 PM ⚡ New Remote: {"path":"RobloxReplicatedStorage.SetDialogInUse","name":"SetDialogInUse","args":[],"parent":"RobloxReplicatedStorage","timestamp":1739421025,"callstack":":23 function analyzeRemote\n:111\n","properties":{"Parent":null,"Name":"SetDialogInUse","ClassName":"RemoteEvent"}} 
+11:30:25 PM ⚡ New Remote: {"path":"RobloxReplicatedStorage.GetServerVersion","name":"GetServerVersion","args":[],"parent":"RobloxReplicatedStorage","timestamp":1739421025,"callstack":":23 function analyzeRemote\n:111\n","properties":{"Parent":null,"Name":"GetServerVersion","ClassName":"RemoteFunction"}} 
+11:30:25 PM ⚡ New Remote: {"path":"RobloxReplicatedStorage.GetServerChannel","name":"GetServerChannel","args":[],"parent":"RobloxReplicatedStorage","timestamp":1739421025,"callstack":":23 function analyzeRemote\n:111\n","properties":{"Parent":null,"Name":"GetServerChannel","ClassName":"RemoteFunction"}} 
+11:30:25 PM ⚡ New Remote: {"path":"Players.LegacyAshx.Backpack.db.rl","name":"rl","args":[],"parent":"Players.LegacyAshx.Backpack.db","timestamp":1739421025,"callstack":":23 function analyzeRemote\n:111\n","properties":{"Parent":null,"Name":"rl","ClassName":"RemoteEvent"}} 
+11:30:25 PM ⚡ New Remote: {"path":"Players.LegacyAshx.Backpack.rev.rl","name":"rl","args":[],"parent":"Players.LegacyAshx.Backpack.rev","timestamp":1739421025,"callstack":":23 function analyzeRemote\n:111\n","properties":{"Parent":null,"Name":"rl","ClassName":"RemoteEvent"}} 
+11:30:25 PM ⚡ New Remote: {"path":"Players.LegacyAshx.Backpack.sg.rl","name":"rl","args":[],"parent":"Players.LegacyAshx.Backpack.sg","timestamp":1739421025,"callstack":":23 function analyzeRemote\n:111\n","properties":{"Parent":null,"Name":"rl","ClassName":"RemoteEvent"}} 
+11:30:25 PM ⚡ New Remote: {"path":"Players.poutybwunni.Backpack.db.rl","name":"rl","args":[],"parent":"Players.poutybwunni.Backpack.db","timestamp":1739421025,"callstack":":23 function analyzeRemote\n:111\n","properties":{"Parent":null,"Name":"rl","ClassName":"RemoteEvent"}} 
+11:30:25 PM ⚡ New Remote: {"path":"Players.meteussteu.Backpack.rev.rl","name":"rl","args":[],"parent":"Players.meteussteu.Backpack.rev","timestamp":1739421025,"callstack":":23 function analyzeRemote\n:111\n","properties":{"Parent":null,"Name":"rl","ClassName":"RemoteEvent"}} 
+11:30:25 PM ⚡ New Remote: {"path":"Players.crazyunicorn4380.Backpack.db.rl","name":"rl","args":[],"parent":"Players.crazyunicorn4380.Backpack.db","timestamp":1739421025,"callstack":":23 function analyzeRemote\n:111\n","properties":{"Parent":null,"Name":"rl","ClassName":"RemoteEvent"}} 
+11:30:25 PM ⚡ New Remote: {"path":"Players.crazyunicorn4380.Backpack.rev.rl","name":"rl","args":[],"parent":"Players.crazyunicorn4380.Backpack.rev","timestamp":1739421025,"callstack":":23 function analyzeRemote\n:111\n","properties":{"Parent":null,"Name":"rl","ClassName":"RemoteEvent"}} 
+11:30:25 PM ⚡ New Remote: {"path":"Players.Cutiesushi12345.Backpack.db.rl","name":"rl","args":[],"parent":"Players.Cutiesushi12345.Backpack.db","timestamp":1739421025,"callstack":":23 function analyzeRemote\n:111\n","properties":{"Parent":null,"Name":"rl","ClassName":"RemoteEvent"}} 
+11:30:25 PM ⚡ New Remote: {"path":"Players.Cutiesushi12345.Backpack.rev.rl","name":"rl","args":[],"parent":"Players.Cutiesushi12345.Backpack.rev","timestamp":1739421025,"callstack":":23 function analyzeRemote\n:111\n","properties":{"Parent":null,"Name":"rl","ClassName":"RemoteEvent"}} 
+11:30:25 PM ⚡ New Remote: {"path":"ReplicatedStorage.DefaultChatSystemChatEvents.OnNewMessage","name":"OnNewMessage","args":[],"parent":"ReplicatedStorage.DefaultChatSystemChatEvents","timestamp":1739421025,"callstack":":23 function analyzeRemote\n:111\n","properties":{"Parent":null,"Name":"OnNewMessage","ClassName":"RemoteEvent"}} 
+11:30:25 PM ⚡ New Remote: {"path":"ReplicatedStorage.DefaultChatSystemChatEvents.OnMessageDoneFiltering","name":"OnMessageDoneFiltering","args":[],"parent":"ReplicatedStorage.DefaultChatSystemChatEvents","timestamp":1739421025,"callstack":":23 function analyzeRemote\n:111\n","properties":{"Parent":null,"Name":"OnMessageDoneFiltering","ClassName":"RemoteEvent"}} 
+11:30:25 PM ⚡ New Remote: {"path":"ReplicatedStorage.DefaultChatSystemChatEvents.OnNewSystemMessage","name":"OnNewSystemMessage","args":[],"parent":"ReplicatedStorage.DefaultChatSystemChatEvents","timestamp":1739421025,"callstack":":23 function analyzeRemote\n:111\n","properties":{"Parent":null,"Name":"OnNewSystemMessage","ClassName":"RemoteEvent"}} 
+11:30:25 PM ⚡ New Remote: {"path":"ReplicatedStorage.DefaultChatSystemChatEvents.OnChannelJoined","name":"OnChannelJoined","args":[],"parent":"ReplicatedStorage.DefaultChatSystemChatEvents","timestamp":1739421025,"callstack":":23 function analyzeRemote\n:111\n","properties":{"Parent":null,"Name":"OnChannelJoined","ClassName":"RemoteEvent"}} 
+11:30:25 PM ⚡ New Remote: {"path":"ReplicatedStorage.DefaultChatSystemChatEvents.OnChannelLeft","name":"OnChannelLeft","args":[],"parent":"ReplicatedStorage.DefaultChatSystemChatEvents","timestamp":1739421025,"callstack":":23 function analyzeRemote\n:111\n","properties":{"Parent":null,"Name":"OnChannelLeft","ClassName":"RemoteEvent"}} 
+11:30:25 PM ⚡ New Remote: {"path":"ReplicatedStorage.DefaultChatSystemChatEvents.OnMuted","name":"OnMuted","args":[],"parent":"ReplicatedStorage.DefaultChatSystemChatEvents","timestamp":1739421025,"callstack":":23 function analyzeRemote\n:111\n","properties":{"Parent":null,"Name":"OnMuted","ClassName":"RemoteEvent"}} 
+11:30:25 PM ⚡ New Remote: {"path":"ReplicatedStorage.DefaultChatSystemChatEvents.OnUnmuted","name":"OnUnmuted","args":[],"parent":"ReplicatedStorage.DefaultChatSystemChatEvents","timestamp":1739421025,"callstack":":23 function analyzeRemote\n:111\n","properties":{"Parent":null,"Name":"OnUnmuted","ClassName":"RemoteEvent"}} 
+11:30:25 PM ⚡ New Remote: {"path":"ReplicatedStorage.DefaultChatSystemChatEvents.OnMainChannelSet","name":"OnMainChannelSet","args":[],"parent":"ReplicatedStorage.DefaultChatSystemChatEvents","timestamp":1739421025,"callstack":":23 function analyzeRemote\n:111\n","properties":{"Parent":null,"Name":"OnMainChannelSet","ClassName":"RemoteEvent"}} 
+11:30:25 PM ⚡ New Remote: {"path":"ReplicatedStorage.DefaultChatSystemChatEvents.ChannelNameColorUpdated","name":"ChannelNameColorUpdated","args":[],"parent":"ReplicatedStorage.DefaultChatSystemChatEvents","timestamp":1739421025,"callstack":":23 function analyzeRemote\n:111\n","properties":{"Parent":null,"Name":"ChannelNameColorUpdated","ClassName":"RemoteEvent"}} 
+11:30:25 PM ⚡ New Remote: {"path":"ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest","name":"SayMessageRequest","args":[],"parent":"ReplicatedStorage.DefaultChatSystemChatEvents","timestamp":1739421025,"callstack":":23 function analyzeRemote\n:111\n","properties":{"Parent":null,"Name":"SayMessageRequest","ClassName":"RemoteEvent"}} 
+11:30:25 PM ⚡ New Remote: {"path":"ReplicatedStorage.DefaultChatSystemChatEvents.SetBlockedUserIdsRequest","name":"SetBlockedUserIdsRequest","args":[],"parent":"ReplicatedStorage.DefaultChatSystemChatEvents","timestamp":1739421025,"callstack":":23 function analyzeRemote\n:111\n","properties":{"Parent":null,"Name":"SetBlockedUserIdsRequest","ClassName":"RemoteEvent"}} 
+11:30:25 PM ⚡ New Remote: {"path":"ReplicatedStorage.DefaultChatSystemChatEvents.GetInitDataRequest","name":"GetInitDataRequest","args":[],"parent":"ReplicatedStorage.DefaultChatSystemChatEvents","timestamp":1739421025,"callstack":":23 function analyzeRemote\n:111\n","properties":{"Parent":null,"Name":"GetInitDataRequest","ClassName":"RemoteFunction"}} 
+11:30:25 PM ⚡ New Remote: {"path":"ReplicatedStorage.DefaultChatSystemChatEvents.MutePlayerRequest","name":"MutePlayerRequest","args":[],"parent":"ReplicatedStorage.DefaultChatSystemChatEvents","timestamp":1739421025,"callstack":":23 function analyzeRemote\n:111\n","properties":{"Parent":null,"Name":"MutePlayerRequest","ClassName":"RemoteFunction"}} 
+11:30:25 PM ⚡ New Remote: {"path":"ReplicatedStorage.DefaultChatSystemChatEvents.UnMutePlayerRequest","name":"UnMutePlayerRequest","args":[],"parent":"ReplicatedStorage.DefaultChatSystemChatEvents","timestamp":1739421025,"callstack":":23 function analyzeRemote\n:111\n","properties":{"Parent":null,"Name":"UnMutePlayerRequest","ClassName":"RemoteFunction"}} 
+11:30:25 PM ⚡ New Remote: {"path":"RobloxReplicatedStorage.ContactListInvokeIrisInvite","name":"ContactListInvokeIrisInvite","args":[],"parent":"RobloxReplicatedStorage","timestamp":1739421025,"callstack":":23 function analyzeRemote\n:111\n","properties":{"Parent":null,"Name":"ContactListInvokeIrisInvite","ClassName":"RemoteEvent"}} 
+11:30:25 PM ⚡ New Remote: {"path":"RobloxReplicatedStorage.ContactListIrisInviteTeleport","name":"ContactListIrisInviteTeleport","args":[],"parent":"RobloxReplicatedStorage","timestamp":1739421025,"callstack":":23 function analyzeRemote\n:111\n","properties":{"Parent":null,"Name":"ContactListIrisInviteTeleport","ClassName":"RemoteEvent"}} 
+11:30:25 PM ⚡ New Remote: {"path":"RobloxReplicatedStorage.UpdateCurrentCall","name":"UpdateCurrentCall","args":[],"parent":"RobloxReplicatedStorage","timestamp":1739421025,"callstack":":23 function analyzeRemote\n:111\n","properties":{"Parent":null,"Name":"UpdateCurrentCall","ClassName":"RemoteEvent"}} 
+11:30:25 PM ⚡ New Remote: {"path":"RobloxReplicatedStorage.RequestDeviceCameraOrientationCapability","name":"RequestDeviceCameraOrientationCapability","args":[],"parent":"RobloxReplicatedStorage","timestamp":1739421025,"callstack":":23 function analyzeRemote\n:111\n","properties":{"Parent":null,"Name":"RequestDeviceCameraOrientationCapability","ClassName":"RemoteEvent"}} 
+11:30:25 PM ⚡ New Remote: {"path":"RobloxReplicatedStorage.RequestDeviceCameraCFrame","name":"RequestDeviceCameraCFrame","args":[],"parent":"RobloxReplicatedStorage","timestamp":1739421025,"callstack":":23 function analyzeRemote\n:111\n","properties":{"Parent":null,"Name":"RequestDeviceCameraCFrame","ClassName":"RemoteEvent"}} 
+11:30:25 PM ⚡ New Remote: {"path":"RobloxReplicatedStorage.ReceiveLikelySpeakingUsers","name":"ReceiveLikelySpeakingUsers","args":[],"parent":"RobloxReplicatedStorage","timestamp":1739421025,"callstack":":23 function analyzeRemote\n:111\n","properties":{"Parent":null,"Name":"ReceiveLikelySpeakingUsers","ClassName":"RemoteEvent"}} 
+11:30:25 PM ⚡ New Remote: {"path":"RobloxReplicatedStorage.IntegrityCheckProcessorKey2_LocalizationTableAnalyticsSender_LocalizationService","name":"IntegrityCheckProcessorKey2_LocalizationTableAnalyticsSender_LocalizationService","args":[],"parent":"RobloxReplicatedStorage","timestamp":1739421025,"callstack":":23 function analyzeRemote\n:111\n","properties":{"Parent":null,"Name":"IntegrityCheckProcessorKey2_LocalizationTableAnalyticsSender_LocalizationService","ClassName":"RemoteEvent"}} 
+11:30:25 PM ⚡ New Remote: {"path":"Players.meteussteu.Backpack.db.rl","name":"rl","args":[],"parent":"Players.meteussteu.Backpack.db","timestamp":1739421025,"callstack":":23 function analyzeRemote\n:111\n","properties":{"Parent":null,"Name":"rl","ClassName":"RemoteEvent"}} 
+11:30:25 PM ⚡ New Remote: {"path":"Players.poutybwunni.Backpack.rev.rl","name":"rl","args":[],"parent":"Players.poutybwunni.Backpack.rev","timestamp":1739421025,"callstack":":23 function analyzeRemote\n:111\n","properties":{"Parent":null,"Name":"rl","ClassName":"RemoteEvent"}} 
+11:30:25 PM ⚡ New Remote: {"path":"Players.poutybwunni.Backpack.tactical sg.rl","name":"rl","args":[],"parent":"Players.poutybwunni.Backpack.tactical sg","timestamp":1739421025,"callstack":":23 function analyzeRemote\n:111\n","properties":{"Parent":null,"Name":"rl","ClassName":"RemoteEvent"}} 
+11:30:25 PM ⚡ New Remote: {"path":"Players.poutybwunni.Backpack.sg.rl","name":"rl","args":[],"parent":"Players.poutybwunni.Backpack.sg","timestamp":1739421025,"callstack":":23 function analyzeRemote\n:111\n","properties":{"Parent":null,"Name":"rl","ClassName":"RemoteEvent"}} 
+11:30:25 PM ⚡ New Remote: {"path":"Players.Stayedsilent9.Backpack.rev.rl","name":"rl","args":[],"parent":"Players.Stayedsilent9.Backpack.rev","timestamp":1739421025,"callstack":":23 function analyzeRemote\n:111\n","properties":{"Parent":null,"Name":"rl","ClassName":"RemoteEvent"}} 
+11:30:25 PM ⚡ New Remote: {"path":"Players.meteussteu.Backpack.tactical sg.rl","name":"rl","args":[],"parent":"Players.meteussteu.Backpack.tactical sg","timestamp":1739421025,"callstack":":23 function analyzeRemote\n:111\n","properties":{"Parent":null,"Name":"rl","ClassName":"RemoteEvent"}} 
+11:30:25 PM ⚡ New Remote: {"path":"Players.meteussteu.Backpack.sg.rl","name":"rl","args":[],"parent":"Players.meteussteu.Backpack.sg","timestamp":1739421025,"callstack":":23 function analyzeRemote\n:111\n","properties":{"Parent":null,"Name":"rl","ClassName":"RemoteEvent"}} 
+11:30:25 PM ⚡ New Remote: {"path":"Players.Stayedsilent9.Backpack.usp.rl","name":"rl","args":[],"parent":"Players.Stayedsilent9.Backpack.usp","timestamp":1739421025,"callstack":":23 function analyzeRemote\n:111\n","properties":{"Parent":null,"Name":"rl","ClassName":"RemoteEvent"}} 
+11:30:25 PM ⚡ New Remote: {"path":"Players.Stayedsilent9.Backpack.sg.rl","name":"rl","args":[],"parent":"Players.Stayedsilent9.Backpack.sg","timestamp":1739421025,"callstack":":23 function analyzeRemote\n:111\n","properties":{"Parent":null,"Name":"rl","ClassName":"RemoteEvent"}} 
+11:30:25 PM ⚡ New Remote: {"path":"Players.cxshmvrrr.Backpack.db.rl","name":"rl","args":[],"parent":"Players.cxshmvrrr.Backpack.db","timestamp":1739421025,"callstack":":23 function analyzeRemote\n:111\n","properties":{"Parent":null,"Name":"rl","ClassName":"RemoteEvent"}} 
+11:30:25 PM ⚡ New Remote: {"path":"Players.cxshmvrrr.Backpack.rev.rl","name":"rl","args":[],"parent":"Players.cxshmvrrr.Backpack.rev","timestamp":1739421025,"callstack":":23 function analyzeRemote\n:111\n","properties":{"Parent":null,"Name":"rl","ClassName":"RemoteEvent"}} 
+11:30:25 PM ⚡ New Remote: {"path":"Players.0_wopph.Backpack.db.rl","name":"rl","args":[],"parent":"Players.0_wopph.Backpack.db","timestamp":1739421025,"callstack":":23 function analyzeRemote\n:111\n","properties":{"Parent":null,"Name":"rl","ClassName":"RemoteEvent"}} 
+11:30:25 PM ⚡ New Remote: {"path":"Players.0_wopph.Backpack.rev.rl","name":"rl","args":[],"parent":"Players.0_wopph.Backpack.rev","timestamp":1739421025,"callstack":":23 function analyzeRemote\n:111\n","properties":{"Parent":null,"Name":"rl","ClassName":"RemoteEvent"}} 
+11:30:25 PM ⚡ New Remote: {"path":"Players.Joselineppppxdd.Backpack.db.rl","name":"rl","args":[],"parent":"Players.Joselineppppxdd.Backpack.db","timestamp":1739421025,"callstack":":23 function analyzeRemote\n:111\n","properties":{"Parent":null,"Name":"rl","ClassName":"RemoteEvent"}} 
+11:30:25 PM ⚡ New Remote: {"path":"Workspace.Stayedsilent9.db.rl","name":"rl","args":[],"parent":"Workspace.Stayedsilent9.db","timestamp":1739421025,"callstack":":23 function analyzeRemote\n:111\n","properties":{"Parent":null,"Name":"rl","ClassName":"RemoteEvent"}} 
+11:30:25 PM ⚡ New Remote: {"path":"Workspace.Joselineppppxdd.rev.rl","name":"rl","args":[],"parent":"Workspace.Joselineppppxdd.rev","timestamp":1739421025,"callstack":":23 function analyzeRemote\n:111\n","properties":{"Parent":null,"Name":"rl","ClassName":"RemoteEvent"}} 
+11:30:25 PM ⚡ New Remote: {"path":"Players.1cM9rH4lK7qN3vP5xJtY.PlayerGui.F.gunevent","name":"gunevent","args":[],"parent":"Players.1cM9rH4lK7qN3vP5xJtY.PlayerGui.F","timestamp":1739421025,"callstack":":23 function analyzeRemote\n:111\n","properties":{"Parent":null,"Name":"gunevent","ClassName":"RemoteEvent"}} 
+11:30:25 PM ⚡ New Remote: {"path":"Players.1cM9rH4lK7qN3vP5xJtY.PlayerGui.F.serverevent","name":"serverevent","args":[],"parent":"Players.1cM9rH4lK7qN3vP5xJtY.PlayerGui.F","timestamp":1739421025,"callstack":":23 function analyzeRemote\n:111\n","properties":{"Parent":null,"Name":"serverevent","ClassName":"RemoteEvent"}} 
